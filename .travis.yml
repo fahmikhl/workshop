@@ -29,5 +29,5 @@ deploy:
   api_key: $TOKEN
   file: ".pio/build/nodemcuv2/firmware.bin"
   on:
-    repo: fahmikhl/buff #ini ganti dengan repo kalian misal : yourname/yourrepo
+    repo: fahmikhl/workshop #ini ganti dengan repo kalian misal : yourname/yourrepo
     all_branches: true
